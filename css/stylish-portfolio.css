@@ -410,7 +410,10 @@ a:hover, a:focus, a:active {
   width: 100%; /* Full width */
   background-color: #ddd; /* Grey background */
 }
-
+.skill-pad{
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
 .skills {
   text-align: right; /* Right-align text */
   padding-top: 10px; /* Add top padding */
