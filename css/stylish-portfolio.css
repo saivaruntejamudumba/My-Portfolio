@@ -399,7 +399,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: black !important;
 }
 
 /* Make sure that padding behaves as expected */
@@ -425,6 +425,6 @@ a:hover, a:focus, a:active {
 .sql {width: 90%; background-color: orange;} /* Dark Grey */
 
 .color{
-  color: #ecb807;
+  color: black;
   padding-bottom: 2rem;
 }
