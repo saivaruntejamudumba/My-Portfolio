@@ -423,7 +423,7 @@ a:hover, a:focus, a:active {
 
 .python {width: 90%; background-color: #4CAF50;} /* Green */
 .ml {width: 80%; background-color: #2196F3;} /* Blue */
-.aws(width: 75%; background-color: #007892;}
+.aws {width: 75%; background-color: #007892;}
 .hadoop {width: 75%; background-color: #f44336;} /* Red */
 .tb {width: 70%; background-color: #808080;} /* Dark Grey */
 .sql {width: 90%; background-color: orange;} /* Dark Grey */
